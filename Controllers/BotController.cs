@@ -20,6 +20,7 @@ namespace Microsoft.BotBuilderSamples
 
         public BotController(IBotFrameworkHttpAdapter adapter, IBot bot)
         {
+            //testing
             _adapter = adapter;
             _bot = bot;
         }

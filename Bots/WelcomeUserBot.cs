@@ -26,7 +26,7 @@ namespace Microsoft.BotBuilderSamples
                                                 Emulator, press the 'Start Over' button to simulate user joining
                                                 a bot or a channel";
 
-        private const string InfoMessage = @"You are seeing this message because the bot received at least one
+        private const string InfoMessage = @"You are seeing this, test change,  message because the bot received at least one
                                             'ConversationUpdate' event, indicating you (and possibly others)
                                             joined the conversation. If you are using the emulator, pressing
                                             the 'Start Over' button to trigger this event again. The specifics
